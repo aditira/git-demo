@@ -20,23 +20,22 @@ Pada latihan Git disini, kita akan melakukan practice dengan 1 repository yang d
 ## Git init
 
 - Exercise 1
-  - **Task**: Configurasi **email** dan **name** Git mu dengan identitas yang benar agar git bisa membuat `commit`!
+  - **Task**: buat folder bernama `demo-repo` dan jadikanlah sebagai repository Git!
 
   - **Answer:**
 
     ```bash
-    >
+    > 
     ```
 
-  - ***Required command**: `git config --list`:
+  - ***Required command**: Lakukanlah perintah `git status`:
     - expect:
 
       ```bash
-      > git config --list
-      user.email=example_name@gmail.com 
-      user.name=Username
+      > On branch master
+      Initial commit
+      nothing to commit (create/copy files and use "git add" to track)
       ```
 
     - screenshoot your output:
-
-      ![-ss: git config --list](https://)
+    
